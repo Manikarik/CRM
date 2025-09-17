@@ -19,13 +19,13 @@ import {
 
 // 🔹 Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyAfuayF2GjylWaZTDrX1hpb2ZRozizHHiU",
-  authDomain: "crma-5fe62.firebaseapp.com",
-  projectId: "crma-5fe62",
-  storageBucket: "crma-5fe62.appspot.com",
-  messagingSenderId: "720279121206",
-  appId: "1:720279121206:web:9f41db5675eb27f8875797",
-  measurementId: "G-NV8NHMTLVR",
+  apiKey: "",
+  authDomain: "crma-5fe62.fiom",
+  projectId: "ce62",
+  storageBucket: "crma-5ft.com",
+  messagingSenderId: "7209121206",
+  appId: "1:7:9f475eb27f8875797",
+  measurementId: "G-NV8NHVR",
 };
 
 // 🔹 Initialize Firebase
